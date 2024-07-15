@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS and System Design.  
 - 📫 How to reach me:  
   - 📧 Email: [youngjun.cho@mail.utoronto.ca](mailto:youngjun.cho@mail.utoronto.ca)  
-  - 💼 LinkedIn: [Youngjun Cho](https://www.linkedin.com/in/youngjun-cho-4716a7195/)  
-- 😄 Pronouns: he/him  
-
+  - 💼 LinkedIn: [Youngjun Cho](https://www.linkedin.com/in/youngjun-cho-4716a7195/)
+    
 <!--
 ![Youngjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngjuncho729&show_icons=true&theme=radical)
 -->
